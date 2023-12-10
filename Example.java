@@ -17,3 +17,6 @@ class Example {
 
     }
 }// gfhfhfj
+
+// add comment
+// add note
